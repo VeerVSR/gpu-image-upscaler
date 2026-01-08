@@ -91,6 +91,7 @@ Download the official Real-ESRGAN x4 model:
 <a href="https://github.com/xinntao/Real-ESRGAN/releases" target="_blank">
 https://github.com/xinntao/Real-ESRGAN/releases
 </a><br>
+  <p>OR</p><br>
 <a href="https://huggingface.co/lllyasviel/Annotators/blob/main/RealESRGAN_x4plus.pth" target="_blank">
 https://huggingface.co/lllyasviel/Annotators/blob/main/RealESRGAN_x4plus.pth
 </a>
