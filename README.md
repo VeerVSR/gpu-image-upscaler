@@ -50,10 +50,7 @@ gpu-image-upscaler/
 The repository includes a sample input image:
 </p>
 
-<p>
-!(https://raw.githubusercontent.com/VeerVSR/gpu-image-upscaler/HEAD/input/test.jpg)
-</p>
-
+![Input Image](https://raw.githubusercontent.com/VeerVSR/gpu-image-upscaler/HEAD/input/test.jpg)
 <hr/>
 
 <h2>🧰 Requirements</h2>
