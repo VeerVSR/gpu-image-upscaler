@@ -51,9 +51,7 @@ The repository includes a sample input image:
 </p>
 
 <p>
-<a href="https://raw.githubusercontent.com/VeerVSR/gpu-image-upscaler/HEAD/input/test.jpg" target="_blank">
-View input image
-</a>
+!(https://raw.githubusercontent.com/VeerVSR/gpu-image-upscaler/HEAD/input/test.jpg)
 </p>
 
 <hr/>
